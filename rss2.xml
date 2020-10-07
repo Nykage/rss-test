@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type = "text/css" href="rss.css"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Esimerkkisivuston nimi</title>
+        <link>www.google.com</link>
+        <description>hey hey hey</description> 
+        <item>
+            <title>Esimerkkisivuston nimi</title>
+            <link>www.google.com</link>
+            <description>hey hey hey</description> 
+        </item>
+        <item>
+            <title>Esimerkkisivuston nimi</title>
+            <link>www.google.com</link>
+            <description>hey hey hey</description> 
+        </item>
+        <item>
+            <title>Esimerkkisivuston nimi</title>
+            <link>www.google.com</link>
+            <description>hey hey hey</description> 
+        </item>
+    </channel>
+</rss> 
